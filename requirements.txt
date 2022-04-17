@@ -1,0 +1,8 @@
+
+setuptools
+pandas
+numpy
+matplotlib
+seaborn
+yfinance 
+./PyTradier
