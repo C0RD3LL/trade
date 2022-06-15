@@ -2,3 +2,4 @@ venv/
 .venv
 venv
 AccInfo.py
+alpacas/acc.py
